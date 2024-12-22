@@ -1,0 +1,3 @@
+HAAR_CASCADE_PATH = r"D:\MAPEL NUSA PUTRA\SEMESTER5\Computer Vision\New folder (10)\Tugas CV_Sesi10_RiskiAbdilah_face_recognization\haarcascade_frontalface_default.xml"
+TRAINER_PATH = r"D:\MAPEL NUSA PUTRA\SEMESTER5\Computer Vision\New folder (10)\Tugas CV_Sesi10_RiskiAbdilah_face_recognization\trainer.yml"
+NAME_MAPPING_PATH = r"D:\MAPEL NUSA PUTRA\SEMESTER5\Computer Vision\New folder (10)\Tugas CV_Sesi10_RiskiAbdilah_face_recognization\name_mapping.txt"
